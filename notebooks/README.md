@@ -1,8 +1,6 @@
 
 
-This folder contains the main analysis notebook for the Ontario House Price Prediction project.
 
-## Main Notebook
 
 **Ontario_House_Price_Prediction_Analysis.ipynb**
 
