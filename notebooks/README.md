@@ -1,4 +1,4 @@
-# Notebook
+
 
 This folder contains the main analysis notebook for the Ontario House Price Prediction project.
 
