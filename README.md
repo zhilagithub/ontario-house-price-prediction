@@ -53,9 +53,17 @@ Python, pandas, NumPy, Matplotlib, Seaborn, Plotly, and scikit-learn.
 
 ## Repository Structure
 
-- `data/` — Ontario property listing dataset
-- `notebooks/` — Complete Jupyter Notebook analysis
-- `README.md` — Project overview and key results
+```text
+ontario-house-price-prediction/
+│
+├── data/
+│   └── Ontario_properties.csv
+│
+├── notebooks/
+│   ├── Ontario_House_Price_Prediction_Analysis.ipynb
+│   └── README.md
+│
+└── README.md
 
 ## Conclusion
 
